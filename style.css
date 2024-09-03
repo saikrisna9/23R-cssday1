@@ -1,0 +1,95 @@
+
+table,tr,td{
+    border: 2px solid black ;
+    border-collapse: collapse;
+    
+}
+table{
+    width: 50vw;
+    height: 50vh;
+}
+#id1{
+ background-color: orange;
+}
+#id2{
+    background-color: blue;
+}
+#id3{
+    background-color: green;
+}
+#id4{
+    background-color:blueviolet;
+}
+#id5{
+    background-color: yellow;
+}
+#id6{
+    background-color:darkseagreen;
+}
+#id7{
+  background-color:antiquewhite;
+
+}
+#id8{
+    background-color:pink ;
+
+}
+#id9{
+    background-color:skyblue ;
+
+}
+#id10{
+    background-color: orangered;
+}
+#id11{
+    background-color:plum;
+}
+#id12{
+    background-color:darkcyan;
+}
+#id13{
+    background-color:goldenrod;
+}
+#id14{
+background-color:darkgreen;
+}
+#id15{
+    background-color: greenyellow;
+}
+#id16{
+    background-color: yellowgreen;
+}
+#id17{
+    background-color: gray;
+}
+#id18{
+    background-color:blueviolet;
+}
+#id19{
+    background-color:lightskyblue;
+}
+#id20{
+    background-color:lightgray;
+}
+#id21{
+    background-color: brown;
+}
+#id22{
+    background-color: beige;
+}
+#id23{
+    background-color: olivedrab;
+}
+#id24{
+   background-color: lightsalmon;
+}
+#id25{
+ background-color:orange;
+}
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    font-size: medium;
+    text-align: center;
+}
